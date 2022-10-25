@@ -1,2 +1,2 @@
 - Hi, I’m @BaltiskayaGuberniya
-- I’m currently learning C++
+- I’m currently learning C++, Java, Object Oriented Design principles and Django.
